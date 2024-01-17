@@ -31,4 +31,6 @@ If you have any insights, additional resources, or improvements to share, we wel
 
 Feel free to use, modify, and distribute the content with proper attribution.
 
+I begin to learn Power BI by Kevin Startvert youtube channel, here to go! https://youtu.be/TmhQCQr_DCA?si=_7R52u26btMoM5Qx
+
 Happy analyzing and enjoy your cookie sales journey with Power BI!
